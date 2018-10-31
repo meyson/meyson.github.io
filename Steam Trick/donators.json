@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/22/221e62a92318bfd5dda5462a1b147b20170467f4_medium.jpg",
+      "id64": "76561197996788058",
+      "name": "Kn1ves❀csgoatse.comsociety.gg",
+      "cost": 0.13
+    },
+    {
+      "img": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e7/e759ac82a269e491d61e2e342627b811c790bd08_medium.jpg",
+      "id64": "76561198039499233",
+      "name": ".:|&gt;The TIN&lt;|:.",
+      "cost": 1.77
+    },
+    {
+      "img": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/91/9129835057eb9350f6c1a80f03cc9253b97e3eca_medium.jpg",
+      "id64": "76561198214019265",
+      "name": "Ek²Oo",
+      "cost": 0.15
+    }
+  ],
+  "referrals": []
+}
